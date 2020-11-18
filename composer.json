@@ -3,7 +3,7 @@
     "description": "Laravel 5 Kuveyt Türk Sanal Pos",
     "homepage": "https://github.com/farukcam/kuveytturk",
     "require": {
-        "illuminate/support": "5"
+        "illuminate/support": "~8"
     },
     "autoload": {
       "psr-4": {
@@ -13,6 +13,6 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-      "illuminate/support": "~5"
+      "illuminate/support": "~8"
     }
 }
