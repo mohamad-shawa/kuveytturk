@@ -1,4 +1,4 @@
-# Laravel 5 Kuveyt Turk Sanal Pos
+# Laravel 8 Kuveyt Turk Sanal Pos
 
 Komut satırından bu kodu çalıştırınız:
 ```
